@@ -1,0 +1,717 @@
+# JERSEY DEVIL — RESEARCH FOUNDATION
+
+**Evil Interviews / StoryKeeper — Character Research Corpus**
+**Subject: One individual Jersey Devil, New Jersey Pine Barrens**
+
+**Compilation note (read first):** This corpus was assembled from the published scholarly, popular, and journalistic record as it is generally known and transmitted. It does **not** constitute direct archival consultation of original newspapers. Every item is tagged by evidentiary level:
+
+- **[L1]** — documented history/geography/ecology; high confidence
+- **[L2]** — reported/folkloric material; preserved as report, not fact
+- **[L3-LOCKED]** — reserved for the interview model; deliberately left open
+- **[VERIFY]** — primary source not located; requires archival confirmation before use in final narrative
+- **[SECONDARY]** — transmitted via later sources only
+- **[TRADITION]** — folklore with no recoverable primary account
+
+No quotation below is offered as verbatim archival text unless marked as a transmitted quotation with its transmission history identified. Where nothing reliable exists, the entry says so.
+
+---
+
+## 1. SUBJECT
+
+One fictional individual Jersey Devil associated with the New Jersey Pine Barrens: a long-lived, winged, hoofed, horse-headed creature of the regional legend, anchored in the legend's core geography (Leeds Point / Great Bay, the Mullica–Batsto–Wading–Oswego river basin, the central Pinelands forests).
+
+The corpus does not establish that this individual exists, participated in any reported event, or has any particular anatomy, biography, or motive. It establishes the **world humans have recorded** and the **unresolved spaces** where the interview model may build a life.
+
+---
+
+## 2. INDIVIDUAL CHARACTER BOUNDARY
+
+The following are **not** established by this research and must not be treated as fact:
+
+- Exact origin (the 1735 Leeds birth is a legend; other versions exist — see §8)
+- Parents, siblings, family structure, mate, children, or species-mates
+- Lifespan, birth date, or death date
+- Diet, feeding behavior, reproduction, or territory
+- Anatomy beyond the contradictory witness descriptions (§13)
+- Language, literacy, religion, or supernatural abilities
+- Exact den/home location
+- Injuries, illnesses, or captivity
+- Any specific killing of livestock or humans
+- Friendships, rivalries, or personal relationships with any human
+- Personal interpretation of, or participation in, the 1735 legend, the 1840s killings, the 1909 wave, the 1951 Gibbstown panic, or any other cataloged incident
+- Knowledge of human technology, human motives, or human names
+
+**Rule for the interview model:** Level 3 reconstruction must be *compatible* with Levels 1 and 2, never corrective of them. If the interview model decides the individual was in Woodbury on January 19, 1909, that is a permitted fiction; the corpus itself takes no position.
+
+---
+
+## 3. GEOGRAPHIC AND CULTURAL SCOPE
+
+**Core zone [L1]:**
+- Wharton State Forest (~122,000+ acres today; largest NJ state forest), Burlington County
+- The Mullica River system: Atsion River reach, Batsto River, Wading River, Oswego River, Nescochague Creek; tidal freshwater marshes at Green Bank, Lower Bank, Sweetwater
+- Brendan T. Byrne State Forest (formerly Lebanon SF), Bass River State Forest, Penn State Forest, the Warren Grove dwarf pine Plains
+- Batsto Village, Atsion Village, Pleasant Mills, Harrisville ruins, Martha Furnace ruins, Quaker Bridge, Speedwell, New Lisbon, Chatsworth, Jenkins, Newtonville, Hog Wallow area hamlets
+- Great Bay / Leeds Point / Smithville (Galloway Township, Atlantic County) — the legend's birthplace geography
+- Counties: Burlington, Atlantic, Ocean (central core); Camden and Gloucester as the western fringe
+
+**Adjacent zone (relevant when historically tied to the legend):**
+- Hammonton and the western agricultural edge
+- Egg Harbor City, Mays Landing, Weymouth (Great Egg Harbor River corridor)
+- Tuckahoe, Corbin City, Estell Manor
+- Southeastern Pennsylvania: **Bristol, Bensalem, and the eastern Delaware Valley** — relevant only to the January 1909 wave, which was substantially a Delaware Valley phenomenon
+
+**Critical analytical finding [L2]:** Most famous 1909 locations — Woodbury, Camden, Collingswood, Haddon Heights, Trenton, Bristol PA — are **outside the Pine Barrens proper**. The 1909 "Jersey Devil" was reported mostly in towns ringing the Pines, while the legend located his *home* inside them. The corpus therefore distinguishes:
+
+- **IN-RANGE:** central Pinelands, Mullica basin, Great Bay edge
+- **FRINGE:** Pemberton, Chatsworth, Hammonton, Mays Landing
+- **OUT-OF-RANGE (cultural):** Woodbury, Camden, Trenton, Collingswood, Bristol PA, Phillipsburg, Gibbstown, and all distant "Jersey Devil" reports
+
+Out-of-range reports are preserved as human cultural history, not as this individual's movements.
+
+---
+
+## 4. EXECUTIVE RESEARCH SUMMARY
+
+1. **The physical world is rich, stable, and well-documented [L1].** ~1.1 million acres of sandy, fire-shaped, blackwater-river forest over the 17-trillion-gallon Kirkwood–Cohansey aquifer; pitch pine, scrub oak, cedar swamp; a landscape of abandoned iron, glass, paper, and charcoal settlements layered under second-growth forest.
+
+2. **The human record runs deep [L1].** Lenape seasonal use and the Brotherton reservation (1758–1802); bog-iron furnace economy (1760s–1860s); collapse and depopulation into "Piney" subsistence culture; cranberry/blueberry industries; railroads; Wharton's water empire; state forests from 1905; the Pinelands Reserve (1978–79); suburban pressure and modern recreation.
+
+3. **The legend has a traceable historical spine [L2/ scholarship].** The "Leeds Devil" traces to the real Leeds family of Leeds Point — Quaker dissenter Daniel Leeds (1652–1720), almanac publisher, disowned by the Burlington Meeting; the Franklin–Titan Leeds almanac feud (1733–38); the Leeds family crest featuring a wyvern. Regal & Esposito (2018) argue the "Devil" label began as religious/political invective and folkloric concretion around the family, with the Mother Leeds birth story appearing fully formed only in early-twentieth-century print.
+
+4. **The 1909 wave is the pivot of the reported record [L2].** A two-week January media event: hoof-like tracks in impossible places across the Delaware Valley; hundreds of witnesses; posses; gunfire; a fire hose in West Collingswood; closed schools in Burlington; hounds that refused a trail in Pemberton; national wire coverage; then abrupt cessation. Most of it happened *outside* the Pine Barrens.
+
+5. **The later record thins and mediates.** After 1951 (Gibbstown panic; $10,000 Philadelphia Record reward), verifiable named-incident records become scarce. The record shifts to local briefs, magazine folklore (Weird NJ), television, sports branding (NHL Devils, 1982), and internet cryptozoology.
+
+6. **No authentic photograph, specimen, cast, or forensic trace exists in any era** — a stable negative fact worth preserving.
+
+7. **The richest creative material for the interview model** is not the famous legend but the *documented human world around it*: smokehouse doors, snow tracks, trolley wires, fire towers, charcoal hearths, the sounds of artillery from Fort Dix, the Hindenburg over Lakehurst, the drowning of dark skies by city glow.
+
+---
+
+## 5. PINE BARRENS PHYSICAL WORLD [L1 unless flagged]
+
+### 5.1 Landform and geology
+- ~1.1 million acres; the largest surviving open space of the Boston-to-Washington corridor.
+- Surface: deep Cohansey and Kirkwood formation sands (tens of meters thick), deposited by ancient river and coastal systems; nearly level terrain with gentle ridges ("uplands") a few meters above the swamps.
+- **Kirkwood–Cohansey aquifer** beneath: roughly 17 trillion gallons of water; water table within a few meters of the surface nearly everywhere — which is why streams appear "out of nowhere" in flat woods.
+- Soils: acidic (pH ~4), nutrient-poor podzols; whitish sugar sand; iron-stained horizons. The "barrens" name came from colonial agriculture failing here.
+- **Bog iron:** iron-fixing bacteria and groundwater chemistry precipitated limonite ore in the swamps — the ore that powered the furnace economy. Orange-red "oredges" and ochre seeps still visible in stream banks.
+- **Spungs:** small isolated intermittent-flooded ponds in kettle-like depressions; many dry by late summer.
+- **The Plains:** several thousand acres near Warren Grove of true dwarf forest — pitch pine and scrub oak held at ~1–2 m by very frequent fire; a globally rare community.
+
+### 5.2 Vegetation
+- **Pitch pine** (*Pinus rigida*): twisted, fire-adapted; thick plated bark; serotinous cones on some strains; resprouts from basal burls after crown fire; the defining tree.
+- **Scrub oak** (*Quercus ilicifolia*), blackjack oak, bear oak in the barrens; white oak, chestnut oak, shortleaf pine on the uplands.
+- **Atlantic white cedar** (*Chamaecyparis thyoides*) swamps along streams: dense, dark, shade-smelling; heavily logged out in the 18th–19th centuries for shingles and boat timber; second growth now mature in protected stands.
+- Red maple/sweetgum hardwood swamps; sphagnum bogs with **pitcher plants, sundews, bladderworts** (carnivorous plants), bog asphodel, swamp pink, curly-grass fern.
+- Heaths: lowbush blueberry, huckleberry (the historic commercial berry crop), teaberry, sheep laurel.
+- Savanna-like openings maintained by fire.
+
+### 5.3 Water
+- **Blackwater rivers**: tea- to coffee-colored from tannins; acidic (pH ~4–5); slow; shallow; cedar-lined. The color is real and permanent — a Pine Barrens river is dark even in flood.
+- Key streams: **Mullica** (headwater reaches at/near Atsion; flows past Batsto and Pleasant Mills, receives the Batsto River, then the northern and southern tributaries including the **Wading**, **Oswego**, and Nescochague systems, before turning tidal near Green Bank/Lower Bank and entering Great Bay). Precise confluence ordering should be checked against USGS/Wharton maps [VERIFY].
+- **Great Egg Harbor River** (Berlin → Mays Landing → bay), **Tuckahoe River**, **Bass River** (joins the Mullica near New Gretna), **Rancocas Creek** on the northwestern fringe.
+- Spring-fed reaches stay unfrozen in stretches during hard winters (groundwater ~10–13°C year-round) — a documented and biologically important winter feature.
+- Spring **herring runs** (alewife/blueback) up the Mullica to Atsion and Batsto dams; historic eel fisheries.
+
+### 5.4 Animals (presence and era documented)
+- **Mammals:** white-tailed deer (abundant), raccoon, opossum (historic southern species that expanded north), red and gray fox, striped skunk, mink, muskrat, river otter, beaver (recovered after historic trapping collapse), long-tailed weasel; **coyote** (established only in the late 20th century); **black bear** (extirpated, returned to South Jersey in recent decades); **bobcat** (historic, essentially gone; reintroduction attempts failed).
+- **Birds:** whip-poor-will and chuck-will's-widow (night sounds), barred owl ("who-cooks-for-you"), great horned and screech owls, barn owls around old structures; turkey and black vultures (black vultures a southern species that moved in during the late 20th century); northern harrier over bogs; osprey and bald eagle (recovered post-DDT); wood duck, hooded merganser, swans; wild turkey (reintroduced 1970s–80s); ruffed grouse (declining); Pine Barrens specialties like the red-cockaded woodpecker (historic, extirpated from NJ).
+- **Herpetofauna:** northern pine snake (Pine Barrens stronghold; nests in open sandy clearings), corn snake (northern range limit in the Pines), timber rattlesnake (rare southern NJ population), hognose, kingsnake, scarlet snake; box turtle; **Pine Barrens treefrog** (*Hyla andersonii*) and carpenter frog (signature species, with distinctive calls).
+- **Fish:** chain pickerel, yellow perch, sunfish; natives like black-banded sunfish, banded sunfish, pirate perch, ironcolor shiner.
+- **Insects:** ferocious mosquito seasons; greenhead and deer flies (July); ticks (Lyme disease recognized late 1970s–80s); cicadas; fireflies in June.
+
+### 5.5 Climate and seasons
+- Humid continental/subtropical border: hot humid summers (July mean mid-70s°F, peaks 95°F+), cold winters (January mean near freezing), ~44–48 in. precipitation spread evenly through the year.
+- Snow: 15–25 in./yr typical; snow cover usually brief but sometimes persistent (as in January 1909, when persistent snow preserved the famous tracks — general weather claim [VERIFY against NOAA historical records]).
+- Nor'easters (winter); hurricanes and remnants occasionally (1944 Great Atlantic Hurricane, Donna 1960, Gloria 1985, Floyd 1999, Irene 2011, **Sandy, October 29, 2012** — major inland tree damage and river flooding in the Pines).
+- Historic droughts with fire consequences: early 1960s (the 1963 fire wave), 1999, 2001–02, 2022.
+- **Fire regime:** the ecosystem requires fire; historic crown fires ran for miles; pitch pine survival, mineral-seedbed germination, and the Plains all depend on it. The New Jersey Forest Fire Service (est. 1906) is one of the oldest organized fire agencies in the United States. Fire towers from the 1910s–20s onward stood at sites including Bass River and other Pinelands points [VERIFY locations/dates].
+- Major documented fires: spring **1963** fire wave during drought, commonly cited at ~190,000 acres burned across the season; **May 2007 Warren Grove fire**, ignited by a flare dropped from a New Jersey Air National Guard F-16 training at the Warren Grove range, burned on the order of 15,000–17,000 acres and threatened homes near Barnegat [VERIFY acreage]; 2019 "Springhill" fire near the Penn State Forest/Coyle Field area (~1,000 acres, Route 72 closed) [VERIFY].
+
+### 5.6 Seasonal texture (for interview use)
+- **March–April:** ice-out; deafening spring peeper choruses at dusk; wood frog quacking in vernal pools; prescribed-burn smoke; frost wildflowers.
+- **May–June:** whip-poor-wills all night; blueberry and huckleberry bloom; greenheads begin; firefly fields.
+- **July–August:** heat shimmer off sugar sand; resin smell strongest; thunderstorms; drought years bring fire danger and the fire-service patrols.
+- **September–October:** cranberry flood-harvest in the bogs (bright rectangles of floating red); traffic of harvest trucks; first frost.
+- **November:** rifle deer season — the woods fill with armed humans on stands; shots audible for kilometers.
+- **December–February:** quiet; cedar swamps stay dark green; wintering waterfowl on the bays; hard freezes seal the shallow streams except spring-fed reaches.
+
+---
+
+## 6. HISTORICAL HUMAN ENVIRONMENT [L1]
+
+### 6.1 Settlement pattern
+- Colonial land division (West Jersey proprietorships, 1670s–80s) laid the grid of "roads" that persist as today's sand tracks.
+- The Pines were bypassed by serious agriculture; settlement concentrated at furnace/village sites and on river edges. Population density stayed extremely low into the 20th century — the core reason a "hidden" animal remained plausible to locals.
+- **"Piney" culture:** charcoal burners (colliers tending earthen kilns for months at a time), woodcutters, cedar "miners" digging preserved dead cedar logs out of swamp muck, "mossers" harvesting sphagnum for city nurseries, market gunners on the bays using Barnegat **sneakbox** duck boats, trappers, eel fishermen, huckleberry and cranberry pickers, subsistence corn-and-rye farming, and (Prohibition era) illicit stills raided by revenuers [documented in McPhee 1968; regional histories].
+- **Piney stigma:** 1900–1915 national press repeatedly described Pine Barrens residents as degenerate and isolated; psychologist H.H. Goddard's *The Kallikak Family* (1912) notoriously placed its "degenerate bloodline" in the NJ Pine Barrens, feeding decades of stereotype. The stigma is directly relevant context: outsiders conflated "the Devil's country" with "the Devil's people."
+
+### 6.2 Iron and charcoal (1760s–1860s)
+- **Bog-iron plantations:** Charles Read built Atsion furnace (1765) and Batsto furnace (1766). Batsto became the great works: Revolution-era munitions supplier (cannonballs, bombs, camp kettles); William Richards (from 1784) and the Richards dynasty; glassworks added mid-19th century (crown-method window glass, ~1840s–1870s) [VERIFY dates]; furnace's last blast commonly given as 1867.
+- Other regional works: **Hanover Furnace** (1770s, near Batsto — the Decatur tradition's setting), **Martha Furnace** (1793; ironmaking ended by the 1810s; village ruins deep in the Wading/Oswego swamps), **Weymouth** (18th-century origins on the Great Egg Harbor River; multiple 19th-century incarnations including paper), **Speedwell** and smaller forges.
+- Each furnace stripped thousands of acres for charcoal; colliers' hearths (flat circular platforms) still dot the forest floor today.
+- The industry died when anthracite/coke iron superseded charcoal; villages emptied; by the 1880s the interior was already largely abandoned second-growth woods.
+
+### 6.3 Paper, glass, and later villages
+- **Harrisville** (originally Harrisburg): paper mill town on the Wading; mill destroyed by fire in 1891; village abandoned; brick chimney/foundation ruins survive in Wharton [L1].
+- **Batsto** post-iron: under Joseph Wharton, a managed tenant-farm village (gentleman's farm, mansion, brickyard, gristmill, sawmill); post office operated from the 1850s into the 1960s (commonly given 1852–1962) [VERIFY].
+- South Jersey glass tradition (Wistarburgh/Glassboro/Millville, mostly outside the Pines) contextualizes Batsto's glass house era.
+
+### 6.4 Cranberry, blueberry, and agriculture
+- Cranberry cultivation from the 1830s–40s; **Chatsworth** as "capital of the Pines"; **Whitesbog** (J.J. White's operation; among the world's largest cranberry producers early 20th century); seasonal labor camps of Italian-American pickers and "off-island" crews.
+- **Elizabeth Coleman White and USDA botanist Frederick Coville** developed the cultivated **highbush blueberry at Whitesbog, 1911–1916**; first commercial crop 1916. Hammonton grew into the blueberry capital. Whitebog's village survives.
+- Chatsworth Cranberry Festival: annual since the mid-1980s (commonly dated 1984) [VERIFY].
+
+### 6.5 Transportation
+- Colonial sand roads and stage routes: the Tuckerton Road axis; **Quaker Bridge** over the Mullica (historic stage stop/tavern site).
+- **Railroads across the Pines:** the Raritan & Delaware Bay RR (opened 1860; later NJ Central system) crossing the northern tier via what became Lakehurst/Whitings/Chatsworth-area stops; the **Tuckerton Railroad** (1871–72) from Whitings south to Tuckerton, extended to Beach Haven on Long Beach Island in 1886; service ended by the mid-1930s; the Chatsworth station building survives [VERIFY]. Cranberries, charcoal, berries, cedar, and gravel rode these lines.
+- Modern roads: Route 206 (Trenton–Hammonton–shore, past Atsion); Route 9 (coastal spine past Leeds Point/Smithville); White Horse and Black Horse Pikes (1850s turnpikes onward); **Garden State Parkway** (through this region mid/late 1950s); **Atlantic City Expressway** (1965); Routes 72, 563, 532, 542 as the modern sand-road-and-pavement web into Wharton.
+- **Batona Trail:** ~50-mile hiking trail through the state forests, built around 1961 by Philadelphia-area trail clubs; the name traditionally explained as "BAck TO NAture" [VERIFY].
+
+### 6.6 Wharton, state forests, protection
+- **Joseph Wharton** (Philadelphia industrialist; the Wharton School's namesake) bought Batsto in 1876 and assembled ~96,000 acres intending to dam Pinelands rivers and sell water to Philadelphia; the New Jersey legislature blocked interbasin water export in 1884, killing the plan. He died **January 11, 1909** — days before the Devil wave crested. The estate held the land undeveloped for half a century.
+- **Bass River State Forest:** New Jersey's first state forest (established 1905) [VERIFY exact date]; CCC work in the 1930s created **Lake Absegami**.
+- CCC camps operated in the 1930s state forests (Lebanon/Bass River): tree planting, roads, firebreaks — visible legacies throughout today's forests.
+- State purchase of the Wharton tract (commonly dated 1954, transaction completed mid-decade) created **Wharton State Forest** [VERIFY dates]. Lebanon State Forest renamed **Brendan T. Byrne State Forest** (2000s) [VERIFY year] for the governor who signed the Pinelands act.
+- **Pinelands National Reserve** (Congress, 1978 — the first National Reserve in the country); **NJ Pinelands Protection Act and Pinelands Commission** (1979); Comprehensive Management Plan effective 1981; growth/preservation zoning reshaping development ever since.
+- Late 20th-century threats and conflicts: sand and gravel mining of the Cohansey sands; landfill and toxic-waste fights; the 1969 **jetport proposal** (a supersonic airport in the Pines — the galvanizing threat for Pinelands protection); suburban sprawl at the edges; ATV and off-road vehicle damage; 2023 state **Motorized Access Plan** restricting sand-road driving in Wharton (major ongoing controversy).
+
+### 6.7 Military presence
+- **Camp Dix** (1917; Fort Dix from 1939) on the northern fringe — artillery fire audible deep in the Pines for over a century.
+- **Lakehurst:** airship proving grounds and Naval Air Station (commissioned 1921); hangars for the rigid airship program; **Hindenburg disaster, May 6, 1937**. Lakehurst's blimps and later aircraft are the region's first sustained aviation.
+- **McGuire Air Force Base** (from WWII origins, 1940s+) — jet noise overhead.
+- **Warren Grove Gunnery Range** (state/military range in the Plains; training use from the WWII era; source of the 2007 fire).
+
+---
+
+## 7. LENAPE AND REGIONAL CULTURAL CONTEXT [L1, with explicit gaps]
+
+- The Pine Barrens lie within the traditional territory of the **Lenni-Lenape** (Delaware) peoples. The region's pattern: seasonal rounds along the rivers, bays, and oak-pine edge; hunting, fishing, gathering (including the "tuckahoe" root, from an Algonquian word, and bayberries); **deliberate landscape burning**, which scholars credit as a foundation of the fire-adapted pine ecosystem. The deep sandy interior was comparatively lightly inhabited year-round.
+- **Brotherton (Edgepillock / Indian Mills, Shamong Township)**: in 1758 the Province of New Jersey established this reservation-like community for South Jersey Lenape — commonly called the first such reservation in British North America. The community declined through disease, debt, and pressure; in **1802 the remaining residents left to join the Stockbridge (Mohican) community** in New York, whose descendants are in Wisconsin.
+- Surviving Indigenous-derived or debated local names: Tuckahoe; Nescochague; Atsion and Batsto (origins debated — Lenape and Swedish settler etymologies both circulate; no reliable resolution) [VERIFY]. "Mullica" is a settler name (after Eric Pålsson Mullica, a Swedish-Finnish settler on the river).
+- **Contemporary communities:** the Nanticoke Lenni-Lenape Tribal Nation (Bridgeton, Cumberland County; state-recognized 1982); Delaware/Lenape nations in Oklahoma and Ontario; Stockbridge-Munsee in Wisconsin.
+- **Critical gap:** No documented Lenape oral tradition concerning a "Jersey Devil" or equivalent Pines creature has been located in reliable sources. Any claim of one should be treated as later invention unless sourced to tribal historians. The interview model must not fabricate Indigenous tradition; if Indigenous perspective is wanted, it must be developed through consultation, not invention.
+
+---
+
+## 8. JERSEY DEVIL TRADITION [L2, with scholarship]
+
+### 8.1 The canonical legend
+- **Mother Leeds**, a Pine Barrens woman (variously a "witch," or merely exhausted), in **1735** (most common date; variants exist) at **Leeds Point** (variants: Burlington City, Estellville) bore her **thirteenth child**, crying out — the folkloric formula varies — *"Let it be the devil!"* The infant was born normal, then transformed: hooves, horse-like head, wings, tail; it abused the room (some versions kill or strike the midwife), flew up the chimney, and retreated into the Pines.
+
+### 8.2 Documented variants (preserve all; choose none)
+- **Curse source variants:** mother's own curse; a **gypsy/fortune-teller's** curse after insult; denial of baptism by a minister; conception with "the devil himself"; union with a **British soldier** during the Revolution.
+- **Exorcism variant:** a clergyman banished the creature for a hundred years (c. 1740), explaining its "return" around 1840.
+- **Seven-year motif:** folk tradition (19th–early 20th century) held the Leeds Devil reappears **every seven years**.
+- **Birthplace variants:** Leeds Point (dominant), Burlington, Estellville, and "a house in the Pines" generally. The supposed **Shourds (Shrouds) House** ruins near Great Bay Boulevard ("Seven Bridges Road," Leeds Point) are traditionally identified as the birth house — with no documentation connecting the structure to any Leeds. [TRADITION]
+- **Mother's name variants:** unnamed; "Mother Leeds"; "Deborah Leeds" (the name Regal & Esposito connect to real family records); "Jane Leeds" appears in some retellings.
+
+### 8.3 The real Leeds family [L1/scholarship; details flagged]
+- **Daniel Leeds (1652–1720):** English-born settler at Springfield, Burlington County; West Jersey deputy surveyor; publisher of New Jersey's first almanac (from 1687) with astrological content that scandalized the Quakers; disowned by the Burlington Meeting; became an Anglican and polemicized against Quakers. Had a very large family; descendants settled the Leeds Point/Great Bay country.
+- **Titanus ("Titan") Leeds:** almanac successor; target of Benjamin Franklin's famous Poor Richard hoax feud (Franklin "predicted" his death in 1733, then insisted Titan was dead and his ghost was writing the almanac; the joke ran for years).
+- The Leeds family's published material bore a heraldic **wyvern** (dragon-like beast). Regal & Esposito's thesis: "Leeds Devil" congealed from Quaker-vs-Leeds religious conflict, almanac-war mockery, the wyvern emblem, and the family's isolated coastal lands — a *defamatory* name that later fused with universal "cursed thirteenth child" folklore. The fully formed Mother Leeds birth legend, in their account, appears in print only in the early twentieth century, including during the 1909 newspaper wave.
+- Pre-1909, "Leeds Devil" functioned in regional usage as a bogeyman/byword; specific 19th-century newspaper uses exist in the scholarly literature but require direct verification [VERIFY].
+
+### 8.4 Naming history
+- **"Leeds Devil" / "Leeds' Devil"** — older regional name.
+- **"Jersey Devil"** — popularized (not invented) by the 1909 press; became standard thereafter. Both names appear in 1909 coverage.
+
+### 8.5 Scholarly and skeptical interpretation (preserve as interpretation)
+- McCloy & Miller (1976): journalistic history treating the tradition and the 1909 wave as a genuine mass episode without asserting the creature.
+- Regal & Esposito (2018): historicist deconstruction (Leeds family origins; media event of 1909; Piney stereotyping).
+- Recurring zoological explanations offered over the decades: sandhill crane, great blue heron, swan, owl, escaped kangaroo (floated in 1909-era commentary), hoax tracks cut from wood, mass suggestion amplified by competitive Philadelphia papers in a slow January. [All L2; presented as period explanations, not findings.]
+
+---
+
+## 9. PRIMARY-SOURCE ENCOUNTER CATALOG
+
+**Status disclosure for this section:** Original 1909 dailies (New York Times, Philadelphia Public Ledger, Philadelphia Evening Bulletin, Philadelphia North American, Camden papers, Burlington County weeklies) exist on microfilm and in digitized collections, but were **not directly consulted** in compiling this corpus. Each record below preserves the transmitted account, marks its transmission chain, and flags what archival verification is required. Records are ordered chronologically.
+
+---
+
+### EC-01 — THE LEEDS BIRTH [TRADITION / LEGEND RECORD]
+
+- **Incident identification:** Alleged transformation and flight of a newborn child; Leeds Point, Atlantic County; date of legend **1735** (variants 1736, and others); time/place/season unspecified in most versions ("a stormy night" in some retellings). No named witness; the midwife appears in some versions, unnamed.
+- **Original account:** **None exists.** No colonial newspaper, church record, or 18th-century document records the event. Earliest located *written* statements of the full birth story are early 20th century, including 1909-era press retellings and later folklore collections (Henry Charlton Beck's 1930s–40s Pine Barrens books; McCloy & Miller 1976). **[RESEARCH GAP: earliest full written version unlocated; likely pre-1909 oral, post-1900 print.]**
+- **Incident narrative (as legend):** labor; birth of a normal child; transformation (in some versions within minutes; in others after being washed or laid down); assault on the room/midwife; escape up the chimney; flight toward the Pines; aftermath: occasional return visits, screams, and the seven-year/appearance motifs.
+- **Description (as legend):** composite creature — horse-like or goat-like head, hooves (usually cloven), wings (usually leathery/bat-like in modern retellings; feathered in others), serpent or horse tail; size varies from "small child" to full-grown. The *retellings are mutually inconsistent*, which the corpus preserves.
+- **Human response:** within the legend — terror, flight, later exorcism attempt (1740 variant).
+- **Evidence:** none; no physical evidence ever claimed at the site; the Shourds House ruins have no documented Leeds connection.
+- **Source development:** oral tradition → (gap) → early-1900s print retellings → 1909 press legend summaries → Beck (1930s–40s) → McCloy & Miller (1976) → modern internet versions (which add details such as glowing eyes and sulfur smell, absent from earlier tellings).
+- **Reliability notes:** pure legend; useful as the tradition's charter myth. **Range code: IN-RANGE (Leeds Point).**
+
+---
+
+### EC-02 — COMMODORE DECATUR AT HANOVER FURNACE, c. 1800 [TRADITION]
+
+- **Incident identification:** Commodore Stephen Decatur, visiting Hanover Iron Works near Batsto (Burlington County) to test cannonballs, allegedly saw a strange pale flying creature overhead and fired at it.
+- **Original account:** **Not located.** The story circulates from early-20th-century retellings (likely surfacing in or around the 1909-era press and later books). No contemporary (1800-era) document is known. **[RESEARCH GAP]**
+- **Incident narrative (as transmitted):** during ordnance testing on the furnace grounds, a large pale creature was observed flying; Decatur aimed and fired (versions differ: a musket shot; a cannonball fired at it); the creature was reportedly struck and flew away unharmed.
+- **Description (as transmitted):** pale/white flying animal; details otherwise vague.
+- **Human response:** firing of a weapon; no pursuit.
+- **Evidence:** none claimed.
+- **Source development:** local tradition → 20th-century print → standard inclusion in modern summaries. Note that later retellings fix the weapon as a cannonball and the effect as none; earlier tellings vary.
+- **Reliability notes:** plausible historical figure in a real place (Decatur did have South Jersey testing connections in popular history), but the sighting itself has no primary source. **Range code: IN-RANGE (Hanover/Batsto).**
+
+---
+
+### EC-03 — JOSEPH BONAPARTE, c. 1816–1839 [TRADITION]
+
+- **Incident identification:** Ex-King Joseph Bonaparte of Spain, living at **Point Breeze, Bordentown** (1816–1839), allegedly encountered the creature while hunting in the Pine Barrens country between Bordentown and the interior.
+- **Original account:** **Not located in contemporaneous documentation.** Transmitted via later local tradition; versions cite an unnamed companion, letter, or reminiscence. **[RESEARCH GAP]**
+- **Incident narrative (as transmitted):** during a hunting excursion, Bonaparte's party (or Bonaparte alone, separated from servants) encountered a strange winged/horse-headed creature in the woods; in most versions the party's horses reacted with terror and the creature fled; no shots in most versions.
+- **Description (as transmitted):** large, dark, winged; horse-like head in most retellings.
+- **Human response:** retreat; no pursuit.
+- **Evidence:** none.
+- **Source development:** Bordentown local tradition → 19th/early-20th-century retellings → modern standard lists.
+- **Reliability notes:** the location (Bordentown) is **north of the Pine Barrens proper** but historically connected to its woodlands; treat as FRINGE. The episode's value is as the legend's earliest "gentleman witness" motif.
+- **Range code: FRINGE.**
+
+---
+
+### EC-04 — LIVESTOCK KILLINGS ATTRIBUTED, 1840–1841 [SECONDARY]
+
+- **Incident identification:** A wave of livestock deaths (sheep, geese, poultry, and other stock) in the Pine Barrens attributed to the "Leeds Devil."
+- **Original account:** **Not located.** This episode is asserted in the standard secondary literature (McCloy & Miller and derivatives) as a documented 1840–41 event, but the underlying Burlington County press items have not been retrieved here. **[RESEARCH GAP: requires search of 1840–41 Burlington County and Philadelphia papers.]**
+- **Incident narrative (as asserted):** stock found dead or mutilated across Pines settlements; blame fell on the traditional creature; posses/hunts mentioned in some retellings.
+- **Description:** none transmitted.
+- **Evidence:** none transmitted beyond the claim of dead stock.
+- **Reliability notes:** the mid-19th century did see real predator-attrition and dog-pack depredations in the region; whether any 1840–41 "Leeds Devil" attribution exists in print is unresolved. **Range code: IN-RANGE (as claimed).**
+
+---
+
+### EC-05 — 1909 ONSET: THE BURLINGTON TRACKS, c. January 16–19, 1909 [L2]
+
+- **Incident identification:** Discovery of unusual hoof-like tracks in snow in Burlington County, generally placed at Burlington City and vicinity in the days before January 19; commonly cited as the wave's ignition.
+- **Witness:** multiple householders and local officials; specific first-finder names are not reliably transmitted. **[VERIFY: Burlington County dailies of Jan 16–19, 1909.]**
+- **Original account:** Burlington County press and Philadelphia papers, mid-January 1909 (Public Ledger, Bulletin, North American; New York Times wire items from Jan 17 onward). Issue/page-level citation: **not recovered here.**
+- **Incident narrative (as transmitted):** following a snowfall, residents found single-file hoof-like prints crossing yards, gardens, and fields; prints appeared **on rooftops**, on tops of fences, and cleanly inside and outside of enclosures without connecting tracks; some print-tracks ran in large circles; spacing suggested odd gaits (leaping or alternating). Within days, similar tracks were reported across dozens of Delaware Valley towns.
+- **Description of prints (as transmitted):** roughly 3–4 inches; like a small mule's or colt's; often described as cloven; consistent enough across towns to sustain the "same animal" idea.
+- **Human response:** newspaper reporting; crowds at track sites; early posses in Burlington and Bristol.
+- **Evidence:** the tracks themselves in snow; no casts known; no photographs known from the wave — **a stable negative finding**.
+- **Source development:** local items → Philadelphia wire → national coverage; later books standardize "the tracks began Jan 16."
+- **Reliability notes:** contemporary and specific, but the print pattern (roofs, circles, fences) is exactly the signature of hoaxing, and later commentary said so at the time and since. Whether any given track-line was hoax, animal, or invention cannot be resolved. **Range code: FRINGE/OUT-OF-RANGE (Burlington City is outside the Pines).**
+
+---
+
+### EC-06 — WOODBURY / NELSON EVANS SIGHTING, January 19, 1909 [L2]
+
+- **Incident identification:** Evening; the yard of the **Nelson Evans** home, **Woodbury, Gloucester County**; the best-remembered direct witness description of the 1909 wave. Mr. and Mrs. Evans both involved; commonly transmitted as Mrs. Evans's account.
+- **Original account:** Philadelphia daily press, late January 1909 — most often attributed to the **Philadelphia Public Ledger** (transmission via McCloy & Miller 1976 and subsequent secondary literature). Exact issue, page, and byline: **not recovered; marked for verification.**
+- **Transmitted quotation** (as reproduced across the secondary literature; treat wording as approximate until verified against the original):
+
+  > "It was about three feet and a half high, and it had a head like a collie dog and a face like a horse. It had a long neck, wings about two feet long, and its back legs were like those of a crane, and it had horse's hooves. It walked on its hind legs."
+
+  *(Some transmitted versions add minor clauses about its forelegs; do not rely on the additions.)*
+- **Incident narrative (as transmitted):** the couple were at home when they noticed something moving in their yard; they observed it from the house; it was described as above; it departed after a short observation (retellings vary on whether the men of the household shouted or went out; **do not assert either**).
+- **Description:** 3.5 ft tall; dog-like head with horse-like face; long neck; ~2-ft wings; crane-like hind legs; horse's hooves; bipedal gait.
+- **Human response:** observation and alarm; immediate report to press.
+- **Evidence:** none beyond the statement.
+- **Source development:** 1909 press → McCloy & Miller → countless retellings; modern versions frequently **add** glowing eyes, sulfur smell, or hostile behavior absent from the early account. Note these additions explicitly as later accretions.
+- **Reliability notes:** contemporary or near-contemporary; single household; a coherent, oddly specific description — which is precisely why it has been quoted for a century. **Range code: OUT-OF-RANGE (Woodbury is Delaware-shore plain; treat as wave-culture unless the interview model chooses otherwise).**
+
+---
+
+### EC-07 — BRISTOL, PENNSYLVANIA, CLUSTER, c. January 17–23, 1909 [L2]
+
+- **Incident identification:** A multi-night cluster of tracks, screams, and sightings in **Bristol, Bucks County, PA**, across the Delaware from Burlington.
+- **Witnesses:** multiple residents, including (in transmitted accounts) watchmen and householders hearing screams at night; a posse of Bristol men; gunfire reported in some versions. **[VERIFY: Bristol daily press, Jan 18–24, 1909.]**
+- **Original account:** Bristol and Philadelphia papers, January 1909; not recovered at page level here.
+- **Incident narrative (as transmitted):** tracks found on rooftops and in yards; successive nights of piercing screams described by listeners as unlike any animal they knew; men gathered with lanterns and shotguns; searching parties found nothing; some versions include shots fired at a glimpsed shape with no effect.
+- **Description (as transmitted):** glimpses only — a large flying shape; screams described as unearthly; no coherent body description.
+- **Human response:** posses, armed patrols, press involvement.
+- **Evidence:** tracks; repeated auditory reports; nothing captured or photographed.
+- **Source development:** 1909 press → standard retelling that anchors Bristol as the wave's Pennsylvania epicenter.
+- **Reliability notes:** strong contemporary coverage; classic communal-auditory event; no physical resolution. **Range code: OUT-OF-RANGE (Pennsylvania; cultural).**
+
+---
+
+### EC-08 — WEST COLLINGWOOD FIRE HOSE INCIDENT, c. January 19–21, 1909 [L2]
+
+- **Incident identification:** Nighttime; a residential street in **West Collingswood, Camden County**; the most famous comic-heroic episode of the wave.
+- **Witnesses:** the responding fire company and residents; specific firefighter names not reliably transmitted. **[VERIFY: Camden County papers of that week.]**
+- **Original account:** Camden/Philadelphia press, January 1909; not recovered at page level here.
+- **Incident narrative (as transmitted):** residents reported the creature perched on or near a roof; the **volunteer fire company responded and trained a fire hose on it**; the creature, struck by the stream, screeched and flew off into the dark. Versions differ on whether it was knocked from its perch.
+- **Description:** winged, perched, screeching; no consistent size or color transmitted.
+- **Human response:** the hose — the era's characteristic municipal muscle — plus crowd gathering.
+- **Evidence:** none beyond testimony.
+- **Source development:** 1909 press → McCloy & Miller → universally repeated; often the first 1909 detail modern tellers remember. Note the shift in tone in retellings from alarming to slapstick.
+- **Reliability notes:** contemporary; the detail is internally plausible as an actual fire-company response to a crowd — which is one reading of the whole event. **Range code: OUT-OF-RANGE (Camden County suburbs).**
+
+---
+
+### EC-09 — BURLINGTON PANIC: SCHOOLS, MILLS, AND POSESSES, c. January 20–22, 1909 [L2]
+
+- **Incident identification:** Burlington City, Burlington County; peak of organized public response.
+- **Witnesses:** city residents, school officials, posses of local men.
+- **Original account:** Burlington and Philadelphia press, January 1909; not recovered at page level here.
+- **Incident narrative (as transmitted):** as reports accumulated, **schools were closed** (children reportedly refused to attend or parents kept them home) and (in some accounts) **mill/work attendance suffered**; posses of armed men patrolled woods and riverbanks; nothing was found. Day-level details and the exact wording of closure orders are inconsistent across secondary sources.
+- **Description:** none specific; fear of the creature rather than sightings.
+- **Human response:** institutional closure; organized patrols; press amplification.
+- **Evidence:** none.
+- **Source development:** 1909 press → later standard summaries ("schools closed, mills closed"); note that "mills closed" appears in some retellings and not others — preserve the inconsistency.
+- **Reliability notes:** the closures are commonly asserted; the strongest verification route is Burlington Board of Education minutes and the Burlington County press of the week. **Range code: FRINGE/OUT-OF-RANGE.**
+
+---
+
+### EC-10 — PEMBERTON HOUNDS, c. January 20–22, 1909 [L2]
+
+- **Incident identification:** Pemberton, Burlington County, at the Pines' western doorstep; tracking attempt.
+- **Witnesses:** hunting-party members with dogs; names not reliably transmitted. **[VERIFY: Burlington County papers.]**
+- **Original account:** January 1909 press; not recovered here.
+- **Incident narrative (as transmitted):** following fresh tracks, local men brought **tracking hounds** to the trail; the dogs reportedly refused the scent — balking, cowering, or circling — and the pursuit was abandoned. Later retellings embellish with the dogs howling or fleeing home.
+- **Description:** none; a tracks-and-dogs incident.
+- **Human response:** attempted pursuit with animals; abandonment.
+- **Evidence:** the tracks; the dogs' behavior as testimony.
+- **Source development:** 1909 press → standard retelling; the motif of dogs refusing the Devil's trail recurs in later South Jersey folklore.
+- **Reliability notes:** transmitted as fact but thin; the detail is folklorically resonant (dogs sensing the uncanny) and skeptically unremarkable (strange tracks, no scent). **Range code: FRINGE.**
+
+---
+
+### EC-11 — TRENTON AND THE WIDE SPREAD, c. January 20–23, 1909 [L2]
+
+- **Incident identification:** Track reports and brief sightings across Trenton and additional New Jersey towns as the wire story metastasized.
+- **Original account:** Trenton papers and out-of-town coverage, January 1909; not recovered here.
+- **Incident narrative (as transmitted):** tracks in yards and fields reported from Trenton outward; scattered short sightings; municipal skepticism and joking commentary from officials in some transmitted items.
+- **Description:** inconsistent; mostly tracks.
+- **Human response:** inspection, merriment, and alarm in mixture.
+- **Evidence:** tracks; nothing physical.
+- **Reliability notes:** the diffusion pattern itself (reports radiating outward from press centers rather than from any landscape feature) is the strongest internal evidence for the cultural nature of the wave — preserve this observation. **Range code: OUT-OF-RANGE.**
+
+---
+
+### EC-12 — PHILLIPSBURG ROOF SCREECH, c. January 21–23, 1909 [L2]
+
+- **Incident identification:** Phillipsburg, Warren County, on the Delaware ~100 km from the Pine Barrens; a woman reported the creature screeching on her roof; neighbors gathered beneath.
+- **Original account:** January 1909 press; not recovered here.
+- **Incident narrative (as transmitted):** nocturnal screeching on a rooftop; crowd assembled; nothing seen or found.
+- **Reliability notes:** geographically impossible for a Pine Barrens animal's plausible range; textbook late-wave contagion report. **Preserve as cultural spread only. Range code: OUT-OF-RANGE.**
+
+---
+
+### EC-13 — WAVE TERMINATION AND CONTEMPORARY SKEPTICISM, late January–February 1909 [L2]
+
+- **Incident identification:** The wave's end: reports ceased abruptly in the last days of January 1909; papers ran wrap-ups, cartoons, and explanations.
+- **Original account:** Philadelphia and New York papers, late January/early February 1909 (New York Times coverage is on microfilm for the period) [VERIFY].
+- **Transmitted content:** offered explanations included a **sandhill crane** or other large bird, an escaped **kangaroo** from a menagerie/circus, hoax tracks carved from wood, and general mass suggestion; at least some hoax admissions by young men were claimed in later retellings [VERIFY each]. No resolution was ever printed.
+- **Reliability notes:** the sudden start and stop is the wave's defining feature and the reason the scholarly literature treats it as a media contagion event rather than an animal census. **Range code: N/A (press history).**
+
+---
+
+### EC-14 — GIBBSTOWN PANIC AND THE $10,000 REWARD, January 1951 [L2]
+
+- **Incident identification:** Gibbstown, Greenwich Township, Gloucester County (Delaware shore plain, outside the Pines); a children's sighting report that reignited regional panic for weeks.
+- **Witnesses:** **two local boys** (names not reliably transmitted here; contemporary clippings would carry them) [VERIFY: Philadelphia Record and Gloucester County press, January 1951].
+- **Original account:** Philadelphia daily press — the **Philadelphia Record** drove the episode and famously posted a **$10,000 reward for the creature's capture**.
+- **Incident narrative (as transmitted):** the boys reported seeing a huge screaming creature near their neighborhood (versions place it by woods/a sand pit); over following days children were kept close to home, stories multiplied across Gloucester County, organized hunts and sightseeing traffic began, and the Record's reward turned the episode into a civic carnival; nothing was found; the panic faded; a crane or other large bird was suggested as the explanation.
+- **Description (as transmitted):** large; screaming; details otherwise vague and secondhand.
+- **Human response:** parental restriction of children, hunting parties, media reward, tourism traffic.
+- **Evidence:** none.
+- **Source development:** 1951 clippings → McCloy & Miller's later chapters → standard modern lists. The reward figure ($10,000) is the episode's stable element; the boys' names and exact date vary by retelling.
+- **Reliability notes:** the best-documented post-1909 episode; still a children's report amplified by a newspaper promotion. **Range code: OUT-OF-RANGE (Gloucester shore plain; cultural).**
+
+---
+
+### EC-15 — JOHN IRWIN ROAD CROSSING NEAR LEEDS POINT, 1993 [SECONDARY, LOW CONFIDENCE]
+
+- **Incident identification:** Nighttime; a road near **Leeds Point/Great Bay** (Atlantic County); a single motorist.
+- **Witness:** **John Irwin**, commonly described as a former ranger/outdoorsman; account circulated in 1990s regional press and cryptozoological literature. [VERIFY original publication; transmitted via secondary sources only.]
+- **Incident narrative (as transmitted):** while driving at night near Leeds Point, Irwin reported a bipedal creature with a horse-like head crossing the road ahead; it moved into the dark and was gone. Retellings add mule-like legs, height estimates, and behavioral details inconsistently.
+- **Description (as transmitted):** bipedal; horse-like head; size and gait details vary by version.
+- **Human response:** observation from vehicle; report to press/enthusiasts.
+- **Evidence:** none.
+- **Source development:** 1990s local/paranormal press → internet cryptozoology lists; details have accreted in transmission.
+- **Reliability notes:** single transmitted witness; location is the legend's home ground, which raises both plausibility-to-tradition and contamination-by-tradition. **Range code: IN-RANGE.**
+
+---
+
+## 10. 1909 ENCOUNTER CHRONOLOGY
+
+**Method note:** Day-by-day attribution below follows the reconstruction in the standard secondary literature (McCloy & Miller 1976 and derivatives), which is consistent with the surviving dailies but has **not been checked page-by-page**. Dates marked [≈] are conventional. The wave is a collection of individual reports; it must never be collapsed into one event.
+
+| Dates (1909) | Reported cluster | Key transmitted elements | Range code |
+|---|---|---|---|
+| Jan 16–18 [≈] | Burlington County (Burlington City area); earliest Bristol PA | Snow-borne hoof-like tracks; rooftops, fences, circles; first posses | Fringe/out |
+| Jan 19 [≈] | Woodbury | Evans sighting and description (EC-06) | Out |
+| Jan 19–21 [≈] | West Collingswood | Fire hose incident (EC-08) | Out |
+| Jan 19–22 [≈] | Burlington | Schools closed; posses; patrols (EC-09) | Fringe/out |
+| Jan 20–22 [≈] | Pemberton | Hounds refuse the trail (EC-10) | Fringe |
+| Jan 20–23 [≈] | Trenton, Camden, Haddon Heights, other NJ towns | Tracks, brief sightings, official skepticism | Out |
+| Jan 17–23 [≈] | Bristol PA, eastern PA suburbs | Multi-night screams, tracks, armed searches (EC-07) | Out (PA) |
+| Jan 21–23 [≈] | Phillipsburg and distant points | Roof screeches and other contagion reports (EC-12) | Out |
+| Late Jan | Press nationally | Wire saturation; cartoons; explanations (EC-13) | Press history |
+| Early Feb | All | Abrupt cessation | — |
+
+**Context [L1/VERIFY]:** January 1909 had persistent snow cover in the Delaware Valley (needed for the track record — confirm against weather records). The press environment was the competitive Philadelphia/New York daily market of the era; wire services spread items nationally within hours. Joseph Wharton, the man whose half-century of locked-up land defined the Pines' modern isolation, had died on January 11 — five days before the first tracks.
+
+**Analytical conclusions to preserve (not to resolve):**
+1. Report geography radiates from press centers, not from the Pine Barrens.
+2. The Pines figure in the coverage as the creature's *asserted home*, not the site of most reports.
+3. The incident mix (tracks ≫ sightings; night ≫ day; collective ≫ solitary witnesses) matches contagion/hoax patterns more than animal behavior — but individual reports remain individually unrebutted.
+
+---
+
+## 11. EARLIER REPORTED ENCOUNTERS (PRE-1909)
+
+- **EC-01 (1735 legend), EC-02 (Decatur, c. 1800), EC-03 (Bonaparte, c. 1816–39), EC-04 (1840–41 livestock)** — see catalog.
+- **19th-century "Leeds Devil" as byword:** period newspaper and colloquial uses of the name as a general bogeyman exist per the scholarly literature; specific citations require retrieval. [RESEARCH GAP]
+- **1870s–1890s:** the standard secondary literature asserts occasional screams/tracks episodes in the Pines and at Leeds Point across this period, but specific dated incidents with named witnesses are not reliably transmitted. Treat all such claims as unverified. [RESEARCH GAP]
+- **Structured finding:** the pre-1909 record is *name-rich and incident-poor* — the Devil was famous before he was ever reliably "seen," which is itself a core fact about the tradition.
+
+---
+
+## 12. LATER REPORTED ENCOUNTERS (POST-1909)
+
+- **EC-14 (Gibbstown, 1951)** and **EC-15 (Irwin, 1993)** — see catalog; these are the two strongest named episodes.
+- **Pattern [L2]:** after 1951 the record fragments into: (a) local newspaper briefs (screams, tracks, dead livestock blamed on "the Devil"); (b) letters and anecdotes in *Weird NJ* and similar venues from the 1990s onward; (c) internet-era photos and videos of uniformly ambiguous quality; (d) annual-cycle folklore around Leeds Point, Seven Bridges Road, and the Shourds ruins.
+- Commonly repeated but unsourced list items — e.g., a 1927 taxi incident, 1961 parked-couple sightings, various 1970s–80s camper encounters — **circulate without retrievable primary accounts** and are cataloged here only as folklore-of-folklore. [RESEARCH GAP: each requires original clippings before any use as an "incident."]
+- **Modern organized activity [L2, cultural]:** "Devil hunter" groups active from the late 1990s; ongoing visits to the Shourds house site; local tour operations; television paranormal segments.
+- **Stable negative fact:** no photograph, video, cast, carcass, or forensic sample of the creature has ever been produced, in any era, anywhere.
+
+---
+
+## 13. REPORTED CHARACTERISTICS (UNCOLLAPSED)
+
+Preserve contradictions; do not resolve.
+
+| Trait | Reported range across eras |
+|---|---|
+| Height | 3 ft (Evans, 1909) ↔ 6–7 ft (modern retellings) |
+| Head | horse-like (dominant); collie-like; goat-like; ram-like |
+| Face | "like a horse"; human-ish in some modern claims |
+| Neck | long/crane-like (1909); short (retellings) |
+| Wings | 2-ft (1909) ↔ vast; leathery/bat-like (modern) ↔ feathered (some versions) |
+| Legs/feet | crane-like hind legs with **horse's hooves** (1909); goat/cloven hooves (modern); talons (rare versions) |
+| Tail | serpent-like; horse-like; absent in some accounts |
+| Color | dark/gray (most); white/pale (Decatur tradition, some 1909 glimpses) |
+| Sound | screech/scream (universal); hiss; silence |
+| Smell | none reported in early accounts; **sulfur/brimstone added only in late-20th-century retellings** |
+| Gait | bipedal; hopping/kangaroo-like; on all fours (rare) |
+| Flight | capable (ubiquitous in tradition); takeoff never clearly described |
+| Eyes | unspecified early; **glowing red added in modern retellings** |
+| Behavior toward humans | avoidance (dominant) ↔ approach/perch near dwellings (1909) ↔ alleged livestock killing (1840s claim, folklore) |
+| Intelligence | animal-implicit in early accounts; cunning/malicious in later folklore |
+| Harm to humans | no credibly documented injury to any human in any era |
+
+**Structural note for the interview model:** the "canon" anatomy (horse head + bat wings + cloven hooves + kangaroo legs) is a **20th-century composite**, assembled from mutually incompatible witness descriptions and standardized by mascots, logos, and illustrations. Any individual reconstruction should acknowledge that no single witness ever described the whole composite.
+
+---
+
+## 14. HUMAN INTERACTIONS (WHAT HUMANS DO)
+
+Across the record, humans have responded to the Devil with: observation and immediate press contact (1909 pattern); **gunfire** (Decatur tradition; 1909 claims — no reported effect in any era); municipal force (fire hose, 1909); **posses and armed patrols**; **tracking dogs** (reported to refuse the trail, 1909); institutional closure (schools, Burlington 1909); **rewards for capture** ($10,000, Philadelphia Record, 1951); exorcism (tradition, 1740 variant); mockery and cartoons (1909, continuous since); commercialization (mascots, merchandise, tours); hoaxes (fake tracks, admitted and alleged, 1909 to present); family discipline ("come inside, the Devil will get you" — the legend's most durable social function); and **hunting culture overlap** — for a creature living in the modern Pines, November means a forest full of armed humans in tree stands, a documented annual condition.
+
+---
+
+## 15. HUMAN RELATIONSHIP TO THE LEGEND
+
+- **Inside the Pines:** the Devil is a neighbor's story, a child-discipline tool, a local identity emblem, and — among older Piney families — the name outsiders used to excuse their contempt for the whole region ("the Devil's country, full of Devil's people"). The stigma chain (Piney = degenerate = Devil-haunted; cf. Goddard's Kallikak fraud, hostile 1900–1915 journalism, corrected in later decades and by McPhee's 1968 humane portrait) is essential context.
+- **Statewide:** the Jersey Devil is New Jersey's signature cryptid — the one monster with a named, mapped, locally owned home range.
+- **Leeds Point/Smithville area:** the legend is civic property; the Shourds ruins are a pilgrimage site; Great Bay Boulevard's "Seven Bridges Road" carries its own layered ghost lore [TRADITION].
+- **Philadelphia media:** historically the legend's amplifier (1909, 1951) — the big-city papers that alternately mocked and monetized South Jersey's monster.
+- **Modern:** pride and commerce coexist; the NHL Devils made the name national in 1982; festivals, brewery names, Halloween tours, and university statuary [VERIFY Stockton University's campus devil statue, 2010s] mark the full domestication of a bogeyman.
+
+---
+
+## 16. BIOLOGY AND SOCIAL-LIFE THEORIES (POSSIBILITIES ONLY)
+
+**Comparative-zoology hypotheses advanced over the years [all L2]:**
+- **Large bird line** (sandhill crane, heron, swan, owl): explains wings, screams, rooftop presence, alternating tracks; fails on hooves and mammalian body descriptions; cranes were plausible occasional visitors.
+- **Mammal line** (unknown large mammal, dog-pack/misidentified predator for livestock incidents): explains livestock claims and some tracks; fails on wings; no physical trace ever.
+- **Bat-line and "winged mammal" proposals:** scale-impossible (flight energetics of a 3.5-ft biped with 2-ft wings are untenable) — preserved as a physics note, not a verdict.
+- **Reptilian/pterosaur-survival line:** fringe cryptozoology and creationist literature; no evidence; incompatible with cold-winter ecology under any known model; preserved as a cultural current only.
+
+**Open biological questions the corpus deliberately does not answer:** solitary vs. lineage (the tradition's single-immortal-individual frame vs. a breeding population vs. recurring misidentifications of ordinary animals); diet (reports of livestock interest vs. an environment rich in deer, waterfowl, eggs, fish, carrion, berries, and mast); shelter candidates (cedar swamps, sand-bank overhangs, ruin cellars at Harrisville/Martha, root hollows); seasonal movement; vocal anatomy (screams are the one consistently reported physical datum); lifespan (no vertebrate model supports the tradition's centuries — the contradiction is the point).
+
+**Seven-year appearance motif** [TRADITION]: an older folk structure that pre-dates the 1909 wave and conflicts with the wave's random timing; preserve both.
+
+---
+
+## 17. HUMAN TECHNOLOGY ACROSS THE LIFETIME [L1 inventory]
+
+- **18th century:** flintlock smoothbores, muskets, hearth and candle light, sail and wagon, charcoal kilns, forge hammers.
+- **19th century:** percussion firearms; canals and then railroads (the Pines' own lines 1860–1872); telegraph; kerosene lamps (post-1859); coal stoves; steam sawmills; photography exists **but no Devil photograph ever surfaces in any era** (stable negative).
+- **1900–1920:** smokeless-powder repeaters; telephones (rural party lines, later); automobiles begin appearing on sand roads; motion pictures; the 1909 wave is a **telegraph-wire event**.
+- **1920s–1940s:** paved highways penetrate (Routes' predecessors); radio broadcasting; rural electrification spreads into the Pines (1930s); refrigeration; **dirigibles and blimps over Lakehurst** (the region's first aircraft — the Hindenburg burns there May 6, 1937); WWII base construction (Dix, Lakehurst expansion, McGuire origins, Warren Grove range); trucks and school buses; CCC machinery.
+- **1950s–1970s:** television (Philadelphia stations dominate); the Garden State Parkway; jet aircraft and helicopters; chainsaws and bulldozers transform forestry and sand mining; air conditioning; fire towers staffed through this era.
+- **1980s–1990s:** 911 dispatch and state police dispatch; fax-era news; VHS camcorders (ambiguous "Devil videos" circulate); early cell towers arrive late and thin — the Pines remain a coverage frontier.
+- **2000s:** digital cameras; GPS; internet forums; the first surge of online cryptozoology communities.
+- **2010s:** smartphones with cameras in every pocket — and still no authentic image; trail cameras by hunters statewide; drones; night-vision gear; social media folklore engines.
+- **2020s:** persistent cellular dead zones in the core forests; satellite imagery; e-bikes; widespread recreational surveillance (dashcams, doorbell cams at the fringe); the dark-sky interior remains one of the darkest places on the eastern seaboard [L1] — the light environment has changed more slowly than the technology around it.
+
+**Standing tension for the interview model:** every technology that should have captured him has failed to do so, while the human noise floor (artillery since 1917, jets since the 1950s, ORVs since the 1970s) has risen relentlessly.
+
+---
+
+## 18. SENSORY ENVIRONMENT [L1 facts, cataloged without literary framing]
+
+- **Vegetation/land smells:** pine resin (strongest in heat); crushed teaberry (minty); heath honey-scent in bloom; smoke of pitch-pine fire (resinous, acrid); charcoal beds (old sweet-char smell where hearths remain); wet oak litter; sphagnum's green rot.
+- **Water/wetland:** tannin-dark water (no odor of clarity — cedar swamps smell of tannin, mud, sulfur seeps); stagnant spungs in August; iron-ochre seeps (rust smell); river mud at low water.
+- **Animals:** spring peeper wall of sound (March–April); carpenter frog "clunking"; Pine Barrens treefrog's repetitive whistle; whip-poor-will and chuck-will's-widow all night (May–July); barred owls; vulture gatherings at roadkill; greenhead bites in July; mosquito whine at dusk; deer-snort alarm; otter slides; beaver tail-slap at night.
+- **Human-era smells by period:** bog-iron furnace and forges (coal, hot iron, slag); the colliers' char and woodsmoke; horses and leather; kerosene; coal smoke; creosote poles (rural electrification); gasoline (leaded, then unleaded); diesel on sand roads in modern summer; sunscreen and DEET at recreation sites; cranberry-bog churn in September (water, machinery, faintly vegetal); blueberry sweetness at Whitesbog in July.
+- **Human-era sounds:** axes and crosscut saws; forge trip-hammers (until 1860s); train whistles through the Pines (1860–1930s); artillery thump from Fort Dix (1917–present); airship engines over Lakehurst (1920s–30s); chainsaws (post-WWII); fire-tower radios; Route 72 and Parkway traffic as a distant ocean; ORVs and dirt bikes on weekends; jets from McGuire; the fire siren test in Chatsworth.
+- **Light:** pitch dark interiors with starfields (Milky Way visible — documented dark-sky quality); lantern and window light in the furnace villages; trolley arcs in 1909's town fringe; car headlights sweeping sand-road curves; sodium-then-LED farmyard lights; the creeping sky-glow dome from Philadelphia/Atlantic City that the interior still mostly escapes.
+
+---
+
+## 19. MAJOR HISTORICAL AND ENVIRONMENTAL EVENTS [L1; dates flagged where uncertain]
+
+- 1687 — first Leeds almanac (family at Burlington/Springfield).
+- 1749 — Peter Kalm's *Travels* describes the pine "barrens," its poor settlers, burning, and charcoal — the first strong outside description [L1].
+- 1733–38 — Franklin/Titan Leeds almanac feud.
+- 1758 — Brotherton reservation established, Indian Mills; 1802 — community departs.
+- 1765–66 — Atsion and Batsto furnaces built.
+- 1770s–80s — Revolution-era iron boom; Batsto munitions.
+- 1793 — Martha Furnace.
+- 1816–1839 — Joseph Bonaparte at Bordentown.
+- 1820s–1860s — peak furnace/charcoal economy; cedar stripped; hundreds of worker settlements.
+- 1854 — Camden & Atlantic Railroad (Atlantic City founded).
+- 1855 — Egg Harbor City.
+- 1860 — Raritan & Delaware Bay RR crosses the Pines.
+- 1871–72 — Tuckerton Railroad.
+- 1876 — Joseph Wharton buys Batsto; estate assembly toward ~96,000 acres.
+- 1884 — NJ bans water export; Wharton's plan dies.
+- 1886 — rail to Beach Haven.
+- 1891 — Harrisville mill burns; village dies.
+- 1905 — Bass River State Forest, NJ's first [VERIFY].
+- 1906 — NJ Forest Fire Service organized.
+- **Jan 11, 1909** — Joseph Wharton dies; **Jan 16–late Jan 1909** — the Jersey Devil wave.
+- 1912 — Goddard's Kallikak stigma.
+- 1917 — Camp Dix.
+- 1920s — Prohibition stills; raids in the Pines.
+- 1930s — CCC; Lake Absegami; Lebanon SF plantations.
+- **May 6, 1937** — Hindenburg, Lakehurst.
+- WWII — ranges and bases expand; Warren Grove use begins.
+- 1951 — Gibbstown panic; $10,000 Record reward.
+- 1954 [≈] — state purchases Wharton tract; Wharton State Forest.
+- Late 1950s — Garden State Parkway through the region.
+- **Spring 1963** — drought fire wave, ~190,000 acres burned [VERIFY totals].
+- 1965 — Atlantic City Expressway.
+- 1968 — McPhee's *The Pine Barrens*.
+- 1969 — jetport proposal; protection movement crystallizes.
+- 1978–79 — Pinelands National Reserve; Pinelands Protection Act; Pinelands Commission (CMP 1981).
+- 1982 — New Jersey Devils NHL franchise adopts the name.
+- 1984 [≈] — Chatsworth Cranberry Festival begins.
+- 1993 — *The X-Files* "Jersey Devil" episode (October).
+- 2007 — Warren Grove fire (F-16 flare; ~15–17k acres).
+- 2010s — southern pine beetle outbreaks; Regal & Esposito's Leeds scholarship (research published mid-2010s; book 2018).
+- 2012 — Hurricane Sandy inland damage.
+- 2020 — pandemic-era visitor surge, litter and ORV damage.
+- 2022 — drought and fire-weather strain.
+- 2023 — Wharton Motorized Access Plan; road-access conflict.
+
+---
+
+## 20. PLAUSIBLE REGIONAL MOVEMENT AND HABITAT (RESEARCH HYPOTHESIS ONLY)
+
+**Hypothesis, not established fact. The corpus does not assert the individual exists or that reports describe him.**
+
+- **Core refuge:** Mullica basin — the cedar swamps and ruin country between Atsion, Batsto, Martha, and Harrisville; the Wading/Oswego corridors; the Plains' dwarf thickets (near-zero human foot traffic, ground visibility, long sightlines).
+- **Legend anchor territory:** Great Bay marsh edge and Leeds Point — the traditional home ground; low human density, open marsh, dark roads.
+- **Corridors:** river and stream lines; abandoned rail beds (R&DB/Tuckerton grades); the sand-road network; firebreak lines; transmission-line rights-of-way.
+- **Seasonal resource model (if a large omnivore):** spring — waterfowl/eggs at the bays and river marshes; summer — berries and night hunting; fall — cranberry-bog edges (water, cover, small game); winter — spring-fed open stream reaches and carrion.
+- **Human pressure zones to model around:** Route 206/9/72 pavement; Chatsworth and Batsto daytime tourism; November firearm deer season; summer weekend ORV traffic; the Warren Grove range noise zone; growing exurban fringe at Hammonton/Egg Harbor.
+- **What this model does NOT include:** the 1909 Delaware Valley towns, Bristol, Phillipsburg, or Gibbstown — those belong to the human cultural history of the legend (per the scope rule), unless the interview model consciously chooses otherwise as Level 3 fiction.
+
+---
+
+## 21. LIFETIME ENVIRONMENTAL TIMELINE
+
+**Colonial / early tradition (to 1775):** Old-growth pine/cedar forest heavily worked at its edges; Lenape burning and seasonal use; scattered Quaker farms at the margins; the Leeds family's lands at Great Bay; iron beginning (1765–66). Night skies total; the loudest sounds are wind, owls, and forge-hammer beginnings.
+
+**1800s:** Furnace century — woodcutting and charcoal steadily hollow the interior; villages at Atsion, Batsto, Martha, Harrisville, Speedwell; railroads arrive 1860–72; then the collapse: cold furnaces, emptying villages, second-growth forest reclaiming clearings; cranberry bogs spread; the Piney subsistence culture consolidates in the emptiness. The "Leeds Devil" circulates as a byword and children's threat.
+
+**Early 1900s:** The 1909 wave breaks over the Delaware Valley while the Pines themselves stay quiet and half-abandoned; Wharton's death and the locked estate; state forestry begins (1905–06); fire towers rise.
+
+**1910s–1940s:** Artillery from new Camp Dix; stills and raiding parties in the woods; CCC men planting pines; dirigibles overhead and the Hindenburg fire at Lakehurst; WWII mobilization; then the first postwar sprawl pressure at the edges.
+
+**1950s–1970s:** Television and the Parkway; the 1951 panic at Gibbstown; the 1963 fire wave blackening a fifth of the region; McPhee's book; the jetport fight and the 1978–79 Pinelands protection regime — the forest is now legally permanent.
+
+**1980s–1990s:** NHL Devils branding; suburban edge growth under CMP zoning; ORV culture; Weird NJ and the X-Files; the Devils' Stanley Cups (1995, 2000, 2003); early web cryptozoology.
+
+**2000s:** Digital cameras, GPS; 2007 Warren Grove fire; droughts; the region becomes a controlled-and-monitored landscape with a wild core.
+
+**2010s:** Smartphones and trail cameras everywhere at the fringe — nothing captured; drone hobbyists over the bogs; scholarly demystification (Regal & Esposito); pine beetle outbreaks.
+
+**2020s:** Pandemic visitor flood; 2022 drought; 2023 access wars over sand roads; warming lengthening fire seasons; the core forest still dark, still unfilmed, still full of recorders waiting.
+
+---
+
+## 22. CULTURAL EVOLUTION OF THE JERSEY DEVIL
+
+- **Colonial–19th c.:** "Leeds Devil" as family/political invective → regional bogeyman and child-discipline threat; seven-year motif.
+- **1909:** the wire-age media event that nationalizes the name and fixes "Jersey Devil."
+- **1909–1950:** dormancy; local tradition only.
+- **1951:** the Record's reward panic — the last great newspaper "hunt."
+- **1960s–70s:** the environmental era rebrands the Pines as precious (McPhee; the Pinelands campaign); the Devil becomes its mascot-emblem.
+- **1980s:** full commercialization — NHL franchise (1982), logos, merchandise.
+- **1990s:** pop-culture saturation — X-Files episode (1993); *Weird NJ* folklore economy; PS1-era video game bearing the name [VERIFY]; the Ong's Hat proto-ARG hoax attaches internet mythology to a Pine Barrens ghost town.
+- **2000s–2010s:** internet cryptozoology; "Devil hunter" groups; podcasts; smartphones produce a flood of ambiguous images and zero verification; academic scholarship historicizes the legend (2018).
+- **2020s:** festival/tourism/meme status; a state identity emblem with a mapped home territory and no evidence — the rare cryptid with civic infrastructure.
+
+---
+
+## 23. CONTRADICTIONS AND COMPETING ACCOUNTS (PRESERVED, UNRESOLVED)
+
+1. **Origin:** cursed 13th child (multiple incompatible variants) vs. Leeds-family political invective vs. no historical event at all.
+2. **Date:** 1735 canonical; no contemporaneous documentation of anything.
+3. **Birthplace:** Leeds Point vs. Burlington vs. Estellville vs. unspecified.
+4. **Mother's name:** unnamed vs. Deborah vs. other; "13 children" unverified in any family record as presented.
+5. **Anatomy:** every major trait contradicted somewhere in the record (§13). The famous composite is a modern invention assembled from incompatible parts.
+6. **Behavior:** harmless avoider (most reports) vs. livestock killer (1840s claim, tradition) vs. menace to homes (1909).
+7. **Timing:** seven-year folk cycle vs. random waves (1909, 1951) vs. continuous background of micro-reports.
+8. **1909 explanations then current:** crane, kangaroo, heron, swan, hoax, contagion — all printed, none established.
+9. **One creature vs. many vs. none:** the tradition requires a single centuries-old individual; the evidence pattern suggests episodic misidentification and invention; the corpus keeps both frames available.
+10. **Geography of fame vs. geography of habitat:** the legend's home is the Pines; the famous reports ring the Pines.
+11. **Later additions vs. early record:** glowing eyes, sulfur smell, tail details, and "devilish cunning" appear in late retellings and are absent from early accounts — every modern teller's version is a composite.
+
+---
+
+## 24. RESEARCH GAPS
+
+**Archival (top priority for any follow-up pass):**
+- Page-level retrieval of all 1909 coverage: New York Times (Jan 16–31, 1909 issues), Philadelphia Public Ledger, Evening Bulletin, North American, Inquirer, Record; Camden papers; Burlington County weeklies; Bristol PA dailies. Needed: exact dates, headlines, bylines, and the uncorrupted Evans text (EC-06).
+- 1840–41 Burlington County/Philadelphia press for the livestock-killings claim (EC-04).
+- Earliest print appearance of the full Mother Leeds birth legend (candidate sources: 1909-era press; early-1900s folklore columns; Beck's manuscripts).
+- Earliest print appearances of the Decatur and Bonaparte stories.
+- 1951 Philadelphia Record series and the Gibbstown boys' named account.
+- 1993 original publication of the Irwin account.
+- 19th-century "Leeds Devil" byword citations.
+- Legislative verification of the often-repeated claim that New Jersey declared the Jersey Devil an official "state demon" in 1938 — currently **unverified and possibly apocryphal**.
+- Batsto post office dates; Bass River SF establishment date; Wharton tract purchase dates; Brendan T. Byrne renaming date; Chatsworth festival first year; Warren Grove 2007 acreage; 1963 fire totals; Stockton statue attribution.
+
+**Substantive unresolved questions:**
+- Whether any pre-1909 Pines incident has a recoverable primary account at all.
+- Whether any 1909 participant ever admitted specific hoaxes (claimed, not confirmed).
+- Precise Mullica-tributary confluence geography for scene-planning (USGS/Wharton map check).
+- No Lenape tradition of the creature — any Indigenous connection must be developed by consultation, not invented.
+- All biology questions (§16) remain open by design.
+- All Level 3 character material (§2) remains open by design.
+
+---
+
+## 25. SOURCE NOTES
+
+**Status:** compiled from the published record as generally known; **no original archival material was directly consulted**; all newspaper citations above identify where verification must occur, not claimed consultation. Quotations are transmitted quotations with their transmission chains identified; only one substantial quotation (EC-06) survives transmission, and its wording requires archival confirmation.
+
+**Core reference shelf for the follow-up pass:**
+- Brian Regal & Frank J. Esposito, *The Jersey Devil* (Rutgers University Press, 2018) — the Leeds-family historicist account; also their mid-2010s research articles.
+- James F. McCloy & Ray Miller, Jr., *The Jersey Devil* (Middle Atlantic Press, 1976); McCloy & Miller, *Phantom of the Pines: More Tales of the Jersey Devil* (1998).
+- Henry Charlton Beck, *Forgotten Towns of Southern New Jersey* (1936) and *Jersey Genesis* (1945).
+- John McPhee, *The Pine Barrens* (Farrar, Straus & Giroux, 1968).
+- Richard T.T. Forman (ed.), *Pine Barrens: Ecosystem and Landscape* (Academic Press, 1979).
+- Howard P. Boyd, *A Field Guide to the Pine Barrens of New Jersey* (1991).
+- Peter Kalm, *Travels into North America* (1748–51; English translation 1770) — early landscape description.
+- Herbert C. Kraft, *The Lenape* (1986) — Lenape history; plus direct consultation with the Nanticoke Lenni-Lenape Tribal Nation for any Indigenous content.
+- H.H. Goddard, *The Kallikak Family* (1912) — as a primary artifact of Piney stigma, cited critically.
+- *Weird NJ* (Moran & Sceurman, from the early 1990s) — modern folklore corpus.
+- Newspapers/serials requiring archival work: New York Times; Philadelphia Public Ledger, Evening Bulletin, North American, Record, Inquirer; Camden Courier (pre-merger titles); Burlington County weeklies; Bristol PA dailies; Trenton papers; Gloucester County papers (1951). Access routes: Chronicling America (Library of Congress), the Rutgers New Jersey Digital Newspaper Project, NJ State Archives, NewspaperArchive/GenealogyBank, municipal and historical-society collections (Batsto, Burlington County Historical Society, Galloway Township/Leeds Point local collections).
+
+---
+
+**Research Foundation complete.**
+The corpus is factually disciplined at Levels 1–2 and deliberately open at Level 3. It preserves the documented world, the reported incidents, the contradictions, and the gaps — and nothing more.
+
+Awaiting the later StoryKeeper interview process.
